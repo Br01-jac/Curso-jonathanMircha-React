@@ -5,6 +5,7 @@ export default function Formularios() {
   const [sabor, setSabor] = useState("");
   const [lenguaje, setLenguaje] = useState("");
   const [terminos, setTerminos] = useState(false);
+ // const [terminos, setTerminos] = useState(false);
 
 //utilizando un solo state
 //const [form, setForm] = useState({});
